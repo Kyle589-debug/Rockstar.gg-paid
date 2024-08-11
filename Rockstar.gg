@@ -1,0 +1,224 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+
+local window = DrRayLibrary:Load("rockstar.gg | paid", "Default")
+
+local tab1 = DrRayLibrary.newTab("Main |        Scripts", "ImageIdHere")
+
+tab1.newButton("🔪 | MM2", "OP", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
+end)
+
+local tab2 = DrRayLibrary.newTab("Fe | Script", "ImageIdHere")
+
+tab2.newButton("🧟‍♂️| Fe | Zombie | Animation", "FE", function()
+while true do
+local Animate = game.Players.LocalPlayer.Character.Animate
+Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=616168032"
+Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=616163682"
+game.Players.LocalPlayer.Character.Humanoid.Jump = false
+wait(1)
+end
+end)
+
+local tab3 = DrRayLibrary.newTab("Script| Stuff", "ImageIdHere")
+
+tab3.newButton("Hitbox Expander", "Expand hitbox on other player", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/RobloxScripts/main/HitboxExpander.lua"))()
+end)
+
+tab1.newButton("🎭 | Ro | ghoul", "Auto Farm,Etc", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaizenofficiall/ZenHub/main/Roghoul", true))()
+end)
+
+tab1.newButton("🎙| MIC | UP", "Mic up Exploit", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()
+end)
+
+tab3.newButton("🥸| Fake | IP | Grabber", "Troll", function()
+    loadstring(game:HttpGet("https://zxfolix.github.io/trollgrabber.lua"))()
+end)
+
+tab3.newButton("🥇| FPS | BOOSTER", "Fix Lag", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/8YZ2cc6V"))()
+end)
+
+tab3.newButton("👛 | FOV | CHANGER", "Any Game", function()
+loadstring(game:GetObjects("rbxassetid://15046298025")[1].Source)()
+end)
+
+tab1.newButton("🔫 | SVM", "OP+Gui ", function()
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/404/main/Source'))()
+end)
+
+tab3.newButton("⌨️ | KEYBOARD | DELTA", "Cracked Keyboard Delta", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt", true))()
+end)
+
+tab3.newButton("💬 | FE | CHAT | BYPASSER", "Chat Bypasser", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SkireScripts/Ouxie/main/Projects/simplebypass.lua"))()
+end)
+
+tab1.newButton("🤫 | BREAKING | POINT", "New", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ColdStep2/Breaking-Point-Funny-Squid-Hax/main/Breaking%20Point%20Funny%20Squid%20Hax",true))();
+end)
+
+tab3.newButton("🎹 | AUTO | PIANO", "Automatic", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/Sad/main/NoKey"))()
+end)
+
+tab1.newButton("🍀 | BLAD | LOCK", "PC/MOBILE", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/sdfesdfsedf/srgtergasdfs/main/wwwwwww", true))()
+end)
+
+tab1.newButton("THE | STRONGEST |BATTLEGROUNDS", "Aimbot", function()
+    loadstring(game:HttpGet("https://pastefy.app/2dJgoWsF/raw"))()
+end)
+
+
+
+
+tab1.newButton("🔫 | ARSENAL", "silentaim,aimbot,etc mobile friendly", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubArsenal"))()
+end)
+
+
+tab3.newButton("RTX | GUI", "Realistic", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/Bkf0BJb3'))()
+end)
+
+
+
+
+tab1.newButton("🎄| NATURAL | DISASTER", "Disaster!", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/9NLK7/93qjoadnlaknwldk/main/main'))()
+end)
+
+tab2.newButton("🕺| FE | R15 | EMOTE", "Fe Free emotes", function()
+    loadstring(game:HttpGet("https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/R15GUI.lua"))()
+end)
+
+tab1.newButton("🐝 | BEE | SWARM | SIMULATOR", "Latest Undetectable", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Chris8889/atlasbss/main/script.lua"))()
+end)
+
+
+tab3.newButton("💻 | MOBILE | CURSOR", "Idk if it’s usefull", function()
+   loadstring(game:HttpGet(('https://pastefy.app/58d8d52G/raw'),true))()
+end)
+
+
+tab3.newButton("🤫 | NAMELESS | ADMIN", "Fe admin", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/ltseverydayyou/Nameless-Admin/main/Source.lua"))();
+end)
+
+
+tab3.newButton("📸 | UNI | CAMLOCK", "Universal", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Ryzzchips/SubtoRyzzchips/main/obf_i3ibnq2A9BZlYl131iIo339M8zDq0l3f7INJ9KJrr4qMyl4K80f29vZ458J6Sr91.lua"))();
+end)
+
+tab3.newButton("🤫🧏🏻| RIZZLER", "Fe rizz any game", function()
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/404/main/Source'))()
+end)
+
+tab2.newButton("🔦 | FE | ILLUSION", "Fe Illusion Works any Game", function()
+   loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-FE-Illusion-Script-12744"))()
+end)
+
+tab2.newButton("🪂 | FE | PARKOUR | SCRIPT", "I think only r6 but its really cool and fun", function()
+   loadstring(game:HttpGet("https://pastebin.com/raw/WW932Ykj"))()
+end)
+
+tab1.newButton("👻 | THE | RAKE|  REMASTERED", "OP ASF", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua"))()
+end)
+
+
+tab3.newButton("🧑‍🔧 | JUMP | SCRIPT", "Universal Jump", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/qhBY6frK'))();
+end)
+
+
+tab1.newButton("🐝 | BEE | SWARM | SIMULATOR", "Autofarm,etc", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Chris8889/atlasbss/main/script.lua"))()
+end)
+
+tab3.newButton("Anti | AFK", "Prevents from idle 20min", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind", true))()
+end)
+
+tab1.newButton("⚽️ | Blade | ball", "Autoparry,etc", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/nqxlOfc/Loaders/main/Blade_Ball.lua'))()
+end)
+
+tab3.newButton("System | Broken", "Many Features", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
+end)
+
+tab3.newButton("Infinite | yield", "Admin Commands", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+tab1.newButton("Da | hood | Mashup", "Silent | Aim Aim | lock", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NetflixAndChill6969/MashHub/main/MashOb", true))()
+end)
+
+tab1.newButton("🍎 | Blox Fruits", "Autofarm,Etc", function()
+    loadstring(game:HttpGet("https://paste.myconan.net/489742.txt"))()
+end)
+
+tab1.newButton("👊 | Tsb", "Kj script", function()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/kjremaker/aba7ddb6c6cc9e66c5c8a8d4b014d8af/raw/873f86d73db961e22e115a3f23c01b743d990b04/CLIENT%20KJ%20FINALLY%20FINISHED"))()
+end)
+
+tab1.newButton("🔫 | 🔪 | MVS", "etc", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/4MvbLUwi"))()
+end)
+
+tab3.newButton("No display Name", "Removes ur display name", function()
+    pcall(function()
+        for i, v in pairs(game:GetService("Players"):GetPlayers()) do
+            if v.Character then
+                if v.Character:FindFirstChild("Humanoid") then
+                    v.Character:FindFirstChild("Humanoid").DisplayName = v.Name 
+                end
+            end
+        end
+    end)
+end)
+
+local tab4 = DrRayLibrary.newTab("Risky", "ImageIdHere")
+
+tab4.newButton("Ban Script", "Use this if u wanna ban yourself", function()
+game:FindService'ReplicatedStorage'.MainEvent:FireServer'OneMoreTime'
+end)
+
+tab2.newButton("🫂| FE | HUB", "FE HUB GUI", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script'))()
+end)
+
+tab2.newButton("🎩 | FE | PANDORA", "FE", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/zYTR38m5"))()
+end)
+
+tab2.newButton("🕹| FE | CONTROL | NPC", "CONTROL ANY NPC", function()
+    loadstring(game:HttpGet(('https://pastefy.app/rZPYaAaT/raw'),true))()
+end)
+
+tab3.newButton("🍃 |ROCHIPS | PANEL", "BY | IM PATRICK✅ ", function()
+    loadstring(game:HttpGet(('https://pastefy.app/yumu499O/raw'),true))()
+--powered by Im_Patrick mobile gui maker
+end)
+
+tab2.newButton("🧱 | FE | PART | MOVER", "ONLY WORKS IN UNACHORED PARTS", function()
+    loadstring(game:HttpGet(('https://pastefy.app/Vcuyg09O/raw'),true))()
+end)
+
+tab2.newButton(" 🗡| FE DARTH | VADER", "SEARCH DARTH VADER IN YOUTUBE FOR THE HATS", function()
+    loadstring(game:HttpGet(('https://pastefy.ga/akjK9AIq/raw'),true))()
+end)
+
+tab1.newButton("💂‍♀️ | RIVALS", "RIVALS SCRIPT", function()
+    	local __function = loadstring(game:HttpGet("https://github.com/Hosvile/InfiniX/releases/latest/download/main.lua", true))
+
+__function(__function)
+end)
